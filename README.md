@@ -1,3 +1,4 @@
 # KaseyPrince1.github.io
-# https://github.com/KaseyPrince1/Bootstrap-Portfolio#bootstrap-portfolio
+# https://kaseyprince1.github.io/Basic-Portfolio/
+# 
 # https://github.com/KaseyPrince1/Responsive-Portfolio#responsive-portfolio
