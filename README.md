@@ -1,2 +1,2 @@
 # KaseyPrince1.github.io
-# KaseyPrince1/Bootstrap-Portfolio
+# https://github.com/KaseyPrince1/Bootstrap-Portfolio#bootstrap-portfolio
